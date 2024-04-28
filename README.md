@@ -2,6 +2,7 @@
 <h3 align="center">An ardent AI/ML enthusiast. Passionate and always ready to explore the world of tech especially AI/ML.</h3>
 
 <img height="400" width="500" align="center" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+
 - 🌱 I’m currently learning **Artificial Intelligence , PyTorch, Keras**
 
 - 💬 Ask me about **Machine Learning**
