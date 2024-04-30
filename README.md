@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anirudh P Singh</h1>
-<h3 align="center">An ardent AI/ML enthusiast. Passionate and always ready to explore the world of tech especially AI/ML.</h3>
+<h1 align="left">Hi 👋, I'm Anirudh P Singh</h1>
+<h3 align="left">An ardent AI/ML enthusiast. Passionate and always ready to explore the world of tech especially AI/ML.</h3>
 
 <img height="400" width="500" align="center" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
