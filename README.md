@@ -3,7 +3,7 @@
 
 <img height="400" width="500" align="center" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
-- 🌱 I’m currently learning **Artificial Intelligence , PyTorch, Keras**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 💬 Ask me about **Machine Learning**
 
