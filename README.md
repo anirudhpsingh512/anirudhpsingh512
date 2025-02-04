@@ -4,11 +4,8 @@
 <img height="400" width="500" align="center" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
 - 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **anirudhpsingh@srmap.edu.in**
-
 - ⚡ Fun fact **I'm also a musician(Singer-Songwriter + instrumentalist)**
 
 <h3 align="left">Connect with me:</h3>
